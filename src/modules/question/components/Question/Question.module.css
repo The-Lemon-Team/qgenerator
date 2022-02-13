@@ -1,0 +1,46 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.questionRoot {
+  width: 53.75rem;
+  margin-bottom: 7rem;
+}
+
+.actions {
+  display: flex;
+}
+
+.answerForm {
+  margin-top: 3rem;
+}
+
+.answerAction {
+  margin-right: 32px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 86px;
+}
+
+.disabledButton {
+}
+
+.text {
+  width: 70%;
+}
+
+.image {
+  width: 30%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header {
+  margin-bottom: 6rem;
+}

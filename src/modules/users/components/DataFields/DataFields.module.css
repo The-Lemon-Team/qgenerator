@@ -1,0 +1,7 @@
+.field {
+  margin-top: 1rem;
+}
+
+.field:last-child {
+  margin-bottom: 1rem;
+}

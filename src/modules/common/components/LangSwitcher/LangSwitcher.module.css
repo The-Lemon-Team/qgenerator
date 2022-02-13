@@ -1,0 +1,8 @@
+.switcher {
+  display: flex;
+  flex-direction: row !important;
+}
+
+.radio {
+  margin-right: 20px !important;
+}

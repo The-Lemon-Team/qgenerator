@@ -1,0 +1,6 @@
+.root {
+  display: flex;
+  padding: 18px 70px;
+  align-items: center;
+  justify-content: space-between;
+}

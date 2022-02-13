@@ -1,0 +1,21 @@
+.button {
+  text-transform: capitalize !important;
+  font-weight: lighter !important;
+}
+
+.outlined {
+  border-width: 2px !important;
+  padding: 12px 57px !important;
+}
+
+.outlined:hover {
+  border-width: 2px !important;
+}
+
+.large {
+  padding: 14px 57px !important;
+}
+
+.small {
+  padding: 0.5rem 1rem !important;
+}

@@ -1,0 +1,18 @@
+.btnWrapper {
+  margin-left: 6px;
+}
+
+.editBtn {
+  width: 1.4rem !important;
+  height: 1.4rem !important;
+}
+
+.confirmBtn {
+  width: 2.4rem !important;
+  height: 2.4rem !important;
+}
+
+.root {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.userDataWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.questions {
+  margin-top: 3rem;
+}

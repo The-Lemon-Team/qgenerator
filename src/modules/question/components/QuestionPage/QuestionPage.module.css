@@ -1,0 +1,8 @@
+.root {
+  padding-bottom: 80px;
+}
+
+.question {
+  display: flex;
+  justify-content: center;
+}

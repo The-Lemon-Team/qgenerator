@@ -1,0 +1,8 @@
+.informationWrapper {
+  display: flex;
+  width: 100%;
+}
+
+.informationContainer {
+  width: 100%;
+}
